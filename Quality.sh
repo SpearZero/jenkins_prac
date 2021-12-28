@@ -1,0 +1,1 @@
+echo "Quality Fate Check : $(date +%D) : $(date +%T)"
